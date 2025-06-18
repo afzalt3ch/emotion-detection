@@ -8,14 +8,16 @@ This project detects human emotions in real-time from webcam feed using a Convol
 
 ---
 
-## 📷 Demo Screenshot
+## 📷 Demo Screenshots
 
-> Accuracy graph and sample interface
+### 🧪 Model Accuracy Graph  
+> Shows training vs validation accuracy across epochs during CNN training  
+![Model Accuracy](https://github.com/afzalt3ch/emotion-detection/blob/main/screenshots/accuracy.png)
 
-![Model Accuracy](https://github.com/afzalt3ch/emotion-detection/blob/main/imgs/accuracy.png)
-![App UI](https://github.com/afzalt3ch/emotion-detection/blob/main/imgs/emotion_demo.png)
+### 🖥️ Web App Interface  
+> The live emotion detection UI with webcam feed and prediction display  
+![App UI](https://github.com/afzalt3ch/emotion-detection/blob/main/screenshots/demo.png)
 
----
 
 ## ✨ Features
 
